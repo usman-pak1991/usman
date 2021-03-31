@@ -1,1 +1,0 @@
-set sysroot C:\SysGCC\Raspberryarm-linux-gnueabihf\sysroot
